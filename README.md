@@ -24,34 +24,6 @@ Lizard NeuroLink OS is an advanced brain-computer interface (BCI) software platf
 
 ---
 
-## Project Structure
-
-LizardNeuroLinkOS/
-├── README.md
-├── requirements.txt
-├── main.py
-├── config.py
-├── brain_interface/
-│   ├── __init__.py
-│   ├── bci_device.py
-│   └── signal_processing.py
-├── models/
-│   ├── brain_signal_decoder.h5  # pretrained model (placeholder)
-│   └── model_utils.py
-├── commands/
-│   ├── __init__.py
-│   ├── command_executor.py
-│   └── mental_training.py
-├── thought_to_text/
-│   ├── __init__.py
-│   └── transcriber.py
-└── utils/
-    ├── __init__.py
-    └── logger.py
-
-
----
-
 ## Installation & Setup
 
 ### Prerequisites
