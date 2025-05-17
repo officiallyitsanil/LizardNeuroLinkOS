@@ -1,0 +1,12 @@
+numpy>=1.23.0
+scipy>=1.9.0
+tensorflow>=2.10.0
+keras>=2.10.0
+pyserial>=3.5
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+pandas>=1.4.0
+mne>=1.2.0              
+opencv-python>=4.5.5.62 
+openbci-sdk>=1.0.0      
+neurable-sdk>=0.1.0     
